@@ -16,6 +16,6 @@ void university::display_university() {
     cout << "Number of students: " << nom.size() << endl;
 
     for (size_t i = 0; i < nom.size(); i++) {
-        cout << "Student " << nom[i] << " corresponds to matricule " << get_matricule(i) << endl;
+        cout  << "Student " << nom[i] << " corresponds to matricule " << get_matricule(i) << endl;
     }
 }
