@@ -15,5 +15,5 @@ int main() {
     cout << "\n" << endl;
     C1.display_student();
 
-    return 0;
+    return 1;
 }
