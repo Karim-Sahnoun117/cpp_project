@@ -16,6 +16,6 @@ This project is an object-oriented application in C++ that allows for the manage
 Clone the project and compile it:
 
 ```bash
-git clone https://github.com/your_username/cpp-project.git
+git clone https:github.com/Karim-Sahnoun117/cpp_project.git
 cd cpp-project
 g++ -o student_management src/*.cpp
