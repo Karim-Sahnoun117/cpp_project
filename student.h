@@ -16,4 +16,4 @@ public:
     void ajout_student();
 };
 
-#endif // STUDENT_H_INCLUDED
+#endif  // STUDENT_H_INCLUDED
