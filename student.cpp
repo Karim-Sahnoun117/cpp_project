@@ -37,6 +37,6 @@ void student::display_student() {
     display_university();
 
     for (size_t i = 0; i < moyenne.size(); i++) {
-        cout << "Student " << nom[i] << " has an average of " << moyenne[i] << endl;
+        cout << "Student " <<  nom[i] << " has an average of " << moyenne[i] << endl;
     }
 }
